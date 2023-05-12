@@ -1,1 +1,1 @@
-scratchattach
+numpy >= 1.2
