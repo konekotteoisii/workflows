@@ -16,6 +16,6 @@ jobs:
           python-version: '3.10'
           architecture: 'x64'
       - name: Install dependencies
-        run: pip install -r okazu0208/workflows/requirements.txt
+        run: pip install -r okazu0208/requirements.txt
       - name: Run Python
         run: python Scratch.py
